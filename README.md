@@ -1,5 +1,8 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## NAME: HARINE S
+## REG NO.: 212224230081
+## DATE: 28.03.2025
+
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -42,6 +45,9 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+
+![Screenshot 2025-03-28 223648](https://github.com/user-attachments/assets/68fe38af-5d34-42f4-9c7d-62f28600240d)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
